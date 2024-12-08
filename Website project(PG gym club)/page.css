@@ -1,0 +1,20 @@
+body {
+    background-color: grey;
+}
+
+.generalinformationsection {
+    border: 1cap solid black;
+  }
+
+  .GImovediv {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .howtojoin {
+    font-size: larger;
+  }
+
+  a {
+    color: blue;
+  }

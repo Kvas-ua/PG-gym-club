@@ -1,0 +1,131 @@
+
+body {
+background-color: grey;
+
+}
+
+.logo{ 
+display: flex;
+justify-content: space-evenly;
+padding: 20px;
+}
+
+.logobackground {
+  background-color: rgb(37, 37, 37);
+  border: 1cap solid black;
+  text-align: center;
+  color: rgb(255, 255, 255);
+}
+
+.MainTitles {
+  display: flex;
+  justify-content: space-around;
+  color: aliceblue;
+  text-align: center;
+}
+
+h1 {
+  font-family: Arial rgb(252, 252, 252);
+}
+
+.title2 {
+  background-color: black;
+
+}
+
+
+
+.title1 {
+  background-color: black;
+}
+
+.signupinfo {
+  color: white;
+  background-color: rgb(0, 0, 0);
+  display: inline-block;
+}
+
+.menu {
+  display: grid;
+  justify-content: center;
+  color: white;
+ 
+  
+}
+
+
+.idkbro {
+  background-image: url('resources/dumbellbackground.jpg');
+  background-size: cover;
+  border: 1cap solid black;
+
+}
+
+.textbox {
+  background-color: black;
+  border: 10px solid rgb(255, 255, 255);
+  padding: 20px;
+}
+
+.GImovediv {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.howtojoin {
+  font-size: larger;
+}
+
+p {
+  font-family: helvetica;
+}
+
+.generalinformationsection {
+  border: 1cap solid black;
+}
+
+.titletext {
+  font-family: verdana;
+  display: inline-block;
+  padding: 2cap;
+  border: 1cap solid black;
+}
+
+.plannedeventssection {
+  border: 1cap solid black;
+}
+
+.titlebackgroundcolor {
+  text-align: center;
+  background-color: rgb(93, 93, 190);
+  padding: 1cap;
+}
+
+.competitiontitles {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.event1 {
+  border: 10px solid black;
+  padding: 3cap;
+}
+
+.event2 {
+  border: 10px solid black;
+  padding: 3cap;
+}
+
+.event3 {
+  border: 10px solid black;
+  padding: 3cap;
+}
+
+.event4 {
+  border: 10px solid black;
+  padding: 3cap;
+}
+
+a {
+  color: blue;
+}

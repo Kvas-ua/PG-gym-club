@@ -1,0 +1,42 @@
+.plannedeventssection {
+    border: 1cap solid black;
+  }
+
+body {
+    background-color: grey;
+}
+
+.titlebackgroundcolor {
+    text-align: center;
+    background-color: rgb(93, 93, 190);
+    padding: 1cap;
+  }
+
+  .competitiontitles {
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .event1 {
+    border: 10px solid black;
+    padding: 3cap;
+  }
+  
+  .event2 {
+    border: 10px solid black;
+    padding: 3cap;
+  }
+  
+  .event3 {
+    border: 10px solid black;
+    padding: 3cap;
+  }
+  
+  .event4 {
+    border: 10px solid black;
+    padding: 3cap;
+  }
+
+  a {
+    color: blue;
+  }
